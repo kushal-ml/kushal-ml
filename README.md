@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">MS in CS @Lakehead University | Huawei HCIA -AI Certified</h3>
-<img align = "right"  alt= "coding" width= "400" src= "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazZlTUJqX1FBMVU1ZUFaT3ltVG5ZWFR0Sl9pQXxBQ3Jtc0tteklPaURsVThLRVdVZ2FsdXY4azBMaDhqeUw0dmV3enREOUIzRUdkTFNrQzVON3BfdUNLdGZ6bjRLeEo4NUw4SGVBRXZsSGVHTkJIZVFSYU9RcFZMVEFCM0t1VWlyck1kZC1hZ3duWHZsZmxBdjRacw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align = "right"  alt= "coding" width= "400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal-ml" alt="kushal-ml" /></a> </p>
 
