@@ -24,7 +24,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14265062/kushal https://stackoverflow.com/users/14265062/kushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14265062/kushal https://stackoverflow.com/users/14265062/kushal" height="30" width="40" /></a>
 <a href="https://fb.com/kushal mahey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kushal mahey" height="30" width="40" /></a>
 <a href="https://instagram.com/____.kushal___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____.kushal___" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/_kushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_kushal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@__kushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_kushal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kkushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kkushal" height="30" width="40" /></a>
 </p>
 
