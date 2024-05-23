@@ -1,13 +1,13 @@
 ![logo](https://github.com/kushal-ml/kushal-ml/blob/main/Technology-007.jpg)
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">MS in CS @Lakehead University | Huawei HCIA -AI Certified</h3>
-<img align = "right" alt= "coding" width= "400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align = "center" alt= "coding" width= "400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal-ml" alt="kushal-ml" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal-ml" alt="kushal-ml" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kushal_mahey" target="blank"><img src="https://img.shields.io/twitter/follow/kushal_mahey?logo=twitter&style=for-the-badge" alt="kushal_mahey" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kushal-ml](https://github.com/kushal-ml)
 
