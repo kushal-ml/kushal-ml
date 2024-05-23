@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kushal_mahey" target="blank"><img src="https://img.shields.io/twitter/follow/kushal_mahey?logo=twitter&style=for-the-badge" alt="kushal_mahey" /></a> </p>
 
-- 🌱 I’m **Full Stack Development**
+- 🌱 I’m **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kushal-ml](https://github.com/kushal-ml)
 
