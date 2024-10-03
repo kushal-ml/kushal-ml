@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/kushal-404b95168**
 
-- 📄 Know about my experiences [https://linktr.ee/Kushal_](https://kushal-ml.netlify.app/)
+- 📄 Know about my experiences [Kushal](https://kushal-ml.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
