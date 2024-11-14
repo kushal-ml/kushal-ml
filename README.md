@@ -6,11 +6,8 @@
 🔭 **I’m currently working on:**  <br>Question Answering Models in Medical Data.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack and ML/AI projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and Azure Machine Learning.<br><br>💬 **Ask me about:**  <br>AI, ML, Data Science, JavaScript, React, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love cooking.
 
 
-- 🌱 I’m **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kushal-ml](https://github.com/kushal-ml)
-
-- 💬 Ask me about **Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kushal-404b95168**
 
@@ -34,5 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal-ml&show_icons=true&locale=en" alt="kushal-ml" /></p>
 
-
-[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kushal-ml&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
