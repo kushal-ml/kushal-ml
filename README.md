@@ -1,17 +1,16 @@
 ![logo](https://github.com/kushal-ml/kushal-ml/blob/main/Technology-007.jpg)
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">MS in CS @Lakehead University | Huawei HCIA -AI Certified</h3>
-<img align = "center" alt= "coding" width= "400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal-ml" alt="kushal-ml" /></a> </p>
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>Question Answering Models in Medical Data.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack and ML/AI projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and Azure Machine Learning.<br><br>💬 **Ask me about:**  <br>AI, ML, Data Science, JavaScript, React, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love cooking.
 
-<p align="left"> <a href="https://twitter.com/kushal_mahey" target="blank"><img src="https://img.shields.io/twitter/follow/kushal_mahey?logo=twitter&style=for-the-badge" alt="kushal_mahey" /></a> </p>
 
 - 🌱 I’m **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kushal-ml](https://github.com/kushal-ml)
 
-- 💬 Ask me about **Machine Learing, Artificial Intelligence**
+- 💬 Ask me about **Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kushal-404b95168**
 
@@ -34,3 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal-ml&show_icons=true&locale=en&layout=compact" alt="kushal-ml" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal-ml&show_icons=true&locale=en" alt="kushal-ml" /></p>
+
+
+[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
