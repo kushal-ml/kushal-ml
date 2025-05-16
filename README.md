@@ -7,9 +7,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/kushal-ml](https://github.com/kushal-ml)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/kushal-ml)
 
-- 📫 How to reach me **https://www.linkedin.com/in/kushal-404b95168**
+- 📫 How to reach me **[Linledln](https://www.linkedin.com/in/kushal-ml/)**
 
 - 📄 Know about my experiences [Kushal](https://kushal-ml.netlify.app/)
 
