@@ -9,15 +9,15 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/kushal-ml)
 
-- 📫 How to reach me **[Linledln](https://www.linkedin.com/in/kushal-ml/)**
+- 📫 How to reach me **[Linkedln](https://www.linkedin.com/in/kushal-ml/)**
 
 - 📄 Know about my experiences [Kushal](https://kushal-ml.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kushal_mahey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushal_mahey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kushal-404b95168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushal-404b95168" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14265062/kushal https://stackoverflow.com/users/14265062/kushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14265062/kushal https://stackoverflow.com/users/14265062/kushal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kushal-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushal-404b95168" height="30" width="40" /></a>
+
 <a href="https://fb.com/kushal mahey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kushal mahey" height="30" width="40" /></a>
 <a href="https://instagram.com/____.kushal___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____.kushal___" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@__kushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_kushal" height="30" width="40" /></a>
