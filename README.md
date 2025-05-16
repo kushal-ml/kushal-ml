@@ -1,9 +1,9 @@
 ![logo](https://github.com/kushal-ml/kushal-ml/blob/main/Technology-007.jpg)
 <h1 align="center">Hi 👋, I'm Kushal</h1>
-<h3 align="center">MS in CS @Lakehead University | Huawei HCIA -AI Certified</h3>
+<h3 align="center">Data Analyst @ Accenture | Python | Jira | MS in CS @Lakehead University | Huawei HCIA -AI Certified</h3>
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Question Answering Models in Medical Data.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack and ML/AI projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and Azure Machine Learning.<br><br>💬 **Ask me about:**  <br>AI, ML, Data Science, JavaScript, React, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love cooking.
+🔭 **I’m currently working as:**  <br>Data Analyst @ Accenture<br><br>👯 **Detail-oriented and innovative Data Analyst with extensive experience in translating complex information into meaningful insights using statistical models and advanced technologies. Expertise in developing and implementing data models, conducting thorough exploratory data analysis, and delivering impactful reports and dashboards. Proficient in utilizing a diverse array of tools and technologies to streamline processes, optimize data quality, and foster informed decision-making. Expertise in manipulating and analyzing large multi-dimensional datasets, implementing web analytics tools, and delivering strategic insights for executive-level audiences** <br>⚡ **Fun fact:**  <br>I love cooking.
 
 
 
