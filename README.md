@@ -1,17 +1,12 @@
 ![logo](https://github.com/kushal-ml/kushal-ml/blob/main/Technology-007.jpg)
 <h1 align="center">Hi 👋, I'm Kushal</h1>
-<h3 align="center">Data Analyst @ Accenture | Python | Jira | MS in CS @Lakehead University | Huawei HCIA -AI Certified</h3>
+<h3 align="center">Data Analyst | Python | Jira | MS in CS @Lakehead University | Huawei HCIA -AI Certified</h3>
 
 # 💫 About Me:
-🔭 **I’m currently working as:**  <br>Data Analyst @ Accenture<br><br>👯 **Detail-oriented and innovative Data Analyst with extensive experience in translating complex information into meaningful insights using statistical models and advanced technologies. Expertise in developing and implementing data models, conducting thorough exploratory data analysis, and delivering impactful reports and dashboards. Proficient in utilizing a diverse array of tools and technologies to streamline processes, optimize data quality, and foster informed decision-making. Expertise in manipulating and analyzing large multi-dimensional datasets, implementing web analytics tools, and delivering strategic insights for executive-level audiences** <br>⚡ **Fun fact:**  <br>I love cooking.
+🔭 👯 **Detail-oriented and innovative Data Analyst with extensive experience in translating complex information into meaningful insights using statistical models and advanced technologies. Expertise in developing and implementing data models, conducting thorough exploratory data analysis, and delivering impactful reports and dashboards. Proficient in utilizing a diverse array of tools and technologies to streamline processes, optimize data quality, and foster informed decision-making. Expertise in manipulating and analyzing large multi-dimensional datasets, implementing web analytics tools, and delivering strategic insights for executive-level audiences** <br>⚡ **Fun fact:**  <br>I love cooking.
 
 
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/kushal-ml)
-
-- 📫 How to reach me **[Linkedln](https://www.linkedin.com/in/kushal-ml/)**
-
-- 📄 Know about my experiences [Kushal](https://kushal-ml.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
